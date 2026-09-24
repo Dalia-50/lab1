@@ -1,6 +1,4 @@
 #!/bin/sh
-# Task 2 — set permissions for variant 0902.
-# Run from your home directory after task1.sh.
 
 chmod 044 lab0/eelektross
 chmod 444 lab0/empoleon
